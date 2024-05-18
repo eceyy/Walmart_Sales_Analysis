@@ -24,6 +24,17 @@ Feature engineering involves creating new features or modifying existing ones to
 ## 4. Data Visualization
 Data visualization is a key step in understanding the relationships between variables in our dataset. Through various plotting techniques such as histograms, scatter plots, box plots, and so on, we can visually explore correlations, trends, and patterns in the data. 
 ### 'Total Weekly Sales by Store'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/total_weekly_sales%20by%20stoe.png)
+### 'Total Weekly Sales by Hoiday Flag'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/tota_weekly_sales%20by%20holiday%20flag.png)
+### 'Total Weekly Sales by CPI'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/total_weekly_sales%20by%20CPI.png)
+### 'Total Weekly Sales by Fuel Price'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/total_weekly_sales%20by%20fuel_price.png)
+### 'Total Weekly Sales by Unployment'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/total_weelly_sales%20by%20unployment.png)
+### 'Total Weekly Sales by Temperature'
+![Alt text](https://github.com/eceyy/Walmart_Sales_Analysis/blob/main/images/total_weekly_sales%20by%20temperature.png)
 
 ## 5. Feature Selection
 Feature selection is the process of identifying and selecting the most relevant features for our analysis. In this step involves evaluating the importance of different features and selecting a subset that contributes the most to the predictive models.
