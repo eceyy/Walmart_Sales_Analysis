@@ -23,6 +23,7 @@ Feature engineering involves creating new features or modifying existing ones to
 
 ## 4. Data Visualization
 Data visualization is a key step in understanding the relationships between variables in our dataset. Through various plotting techniques such as histograms, scatter plots, box plots, and so on, we can visually explore correlations, trends, and patterns in the data. 
+### 'Total Weekly Sales by Store'
 
 ## 5. Feature Selection
 Feature selection is the process of identifying and selecting the most relevant features for our analysis. In this step involves evaluating the importance of different features and selecting a subset that contributes the most to the predictive models.
